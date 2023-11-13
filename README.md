@@ -2,7 +2,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Continuous Probability Distributions
-
+......
 
 ## Introduction
 
