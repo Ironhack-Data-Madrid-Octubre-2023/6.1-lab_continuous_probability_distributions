@@ -3,6 +3,7 @@
 
 # Lab | Continuous Probability Distributions
 
+Cambio para pull request
 
 ## Introduction
 
