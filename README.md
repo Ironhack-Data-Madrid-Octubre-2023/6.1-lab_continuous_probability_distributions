@@ -6,6 +6,8 @@
 
 ## Introduction
 
+
+
 As a data analyst, you might need to use probability distribution for several reasons: 
 - To discover meaningful relationships between events. 
 - To make better data-driven decisions by answering questions like 'how likely something has happened out of pure coincidence'.
